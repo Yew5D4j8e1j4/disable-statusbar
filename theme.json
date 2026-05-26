@@ -3,7 +3,7 @@
   "author": "mommy",
   "name": "Disable Statusbar",
   "description": "Disable Statusbar for Zen",
-  "version": "yes",
+  "version": "67.0",
   "style": {"chrome": "userChrome.css"},
   "tags": ["Disable"],
   "fork": ["zen"]
